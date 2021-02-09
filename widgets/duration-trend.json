@@ -1,0 +1,15 @@
+[ {
+  "buildOrder" : 13,
+  "reportUrl" : "https://polyanskyiow.github.io/ChromeTest/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 1755
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "https://polyanskyiow.github.io/ChromeTest/12/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 981
+  }
+} ]

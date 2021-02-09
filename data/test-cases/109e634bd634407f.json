@@ -1,0 +1,114 @@
+{
+  "uid" : "109e634bd634407f",
+  "name" : "test3",
+  "fullName" : "ChromeTest.test3",
+  "historyId" : "6403d6ed7d6a1895f26e07f165071f4a",
+  "time" : {
+    "start" : 1612912938351,
+    "stop" : 1612912938351,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setupTest",
+    "time" : {
+      "start" : 1612912928027,
+      "stop" : 1612912936437,
+      "duration" : 8410
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1612912938353,
+      "stop" : 1612912938425,
+      "duration" : 72
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ChromeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ChromeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test3"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "ChromeTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az40-526"
+  }, {
+    "name" : "thread",
+    "value" : "4105@fv-az40-526.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "f64b7df19fc33a1",
+        "reportUrl" : "https://polyanskyiow.github.io/ChromeTest/12//#testresult/f64b7df19fc33a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612911877516,
+          "stop" : 1612911877516,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "109e634bd634407f.json",
+  "parameterValues" : [ ]
+}
